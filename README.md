@@ -8,3 +8,9 @@ preprocessing and exploratory data analysis. The relationships between the targe
 During the modeling phase, special attention was paid to hyperparameter tuning - some arbitrarily fixed values for hyperparameters were tested
 using grid search in each model. Predictive capabilities of created models were compared and described thoroughly. 
 </div>
+
+### Tools and technologies used:
+- Data Preprocessing: numpy, pandas, missing values,
+- Data Visualization: seaborn, matplotlib,
+- Machine Learning algorithms: scikit-learn, hyperparameter tuning, cross-validation.
+
